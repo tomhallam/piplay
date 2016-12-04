@@ -1,0 +1,17 @@
+{
+  "name": "piplay",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airplay-server": "^1.1.0",
+    "nodetunes": "^0.3.0",
+    "raop-rtsp-server": "0.0.10",
+    "through2": "^2.0.3"
+  }
+}
