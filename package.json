@@ -10,8 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "airplay-server": "^1.1.0",
+    "bufferstream": "^0.6.2",
     "nodetunes": "^0.3.0",
     "raop-rtsp-server": "0.0.10",
-    "through2": "^2.0.3"
+    "through2": "^2.0.3",
+    "through2-filter": "^2.0.0"
   }
 }
